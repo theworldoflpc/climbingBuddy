@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1010303788169",
+    "firebase_url": "https://clifra.firebaseio.com",
+    "project_id": "clifra",
+    "storage_bucket": "clifra.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010303788169:android:51feaf4af9d8826d835258",
+        "android_client_info": {
+          "package_name": "com.lpc.climbingpals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010303788169-186ktqrfj3medchqlre0ifqq3c7qrhtl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD47_srDavIE_Zb3Xk18OWDCb-OTZrzrZs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010303788169-186ktqrfj3medchqlre0ifqq3c7qrhtl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
